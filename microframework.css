@@ -55,6 +55,7 @@ Ce framework ne s'occupe que d'une chose : mettre en place un système de colonn
 
 .column {
     flex-grow:1;
+    width:100%;
     flex-direction:column;
 }
 
